@@ -1,4 +1,4 @@
-ProductOfElems. Java tutorials. Console Application. Simple Input/Output. Arrays. Algorithms. 
+ProductOfElems. Java tutorials. Console Application. Simple Input/Output. Arrays. Algorithms.
 A console application in the Java programming language. 
 The program does the following:
    1. Asks the user to enter the number of elements in the array.
